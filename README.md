@@ -45,7 +45,10 @@ Access the Application:
 Database Setup
 1. The database schema includes a "Post" table with fields for 'id', 'title', 'content', and 'pub_date'.
 
-Features
+
+
+Features:
+
 
 Homepage:
 1. Lists all blog posts with titles and short descriptions.

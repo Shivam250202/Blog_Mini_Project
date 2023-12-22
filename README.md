@@ -37,13 +37,13 @@ Configure MySQL Database:
 2. Update the MySQL connection details in "app.py".
 
 Run the Application:
-python app.py
+1. python app.py
 
 Access the Application:
-Open your browser and navigate to http://127.0.0.1:5000/ to view the blog platform.
+1. Open your browser and navigate to http://127.0.0.1:5000/ to view the blog platform.
 
 Database Setup
-The database schema includes a "Post" table with fields for 'id', 'title', 'content', and 'pub_date'.
+1. The database schema includes a "Post" table with fields for 'id', 'title', 'content', and 'pub_date'.
 
 Features
 
